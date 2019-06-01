@@ -17,7 +17,11 @@
   },
   "dependencies": {
     "basicgrid": "^3.1.2",
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
     "normalize.css": "^8.0.1",
+    "popper.js": "^1.15.0",
     "rosid": "^10.0.0",
     "rosid-handler-js": "^12.1.0",
     "rosid-handler-malvid": "^3.0.2",

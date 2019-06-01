@@ -1,1 +1,3 @@
-<a href="#" class="button button--{{ color }}">{{ label }}</a>
+{% for item in content %}
+	<a href="#" class="btn btn-{{ item.color }}">{{ item.label }}</a>
+{% endfor %}
