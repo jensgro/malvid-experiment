@@ -1,4 +1,4 @@
-# Notizen zum Umgang mit Malvid
+# Ein erster Versuch mit Malvid
 
 ## Was soll das hier?
 
