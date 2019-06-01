@@ -48,9 +48,9 @@ Eine sehr schöne Idee ist, dass man in der config.json zu jedem Modul den Statu
 
 Alle Inhalte werden in den Ordner `src` gekippt. Es ist keine Strukturierung möglich. Das ist sehr bedauerlich und ein großer Minuspunkt.
 
-## Verlinkung erxterne JS-Dateien
+## Verlinkung externe JS-Dateien
 
-Es ist mir nicht gelungen, die externen JS-Dateien aus dem `node_modules`-Ordner zu ziehen. Ich musste doch manuell die Dateien kopieren und einbinden. Sehr bedauerlich. Auch hierfür fänd ich eine Lösung wichtig und vor allem eine Dokumentation.
+Es ist mir nicht gelungen, die externen JS-Dateien aus dem `node_modules`-Ordner zu ziehen. Ich musste doch manuell die Dateien kopieren und einbinden. Sehr bedauerlich. Auch hierfür fänd ich eine Lösung wichtig und vor allem eine Dokumentation. Es ist mir zudem nicht klar, wie ich einfach feststellen kann, ob die externen Dateien nun geladen wurden oder nicht. Nachdem ich die notwendigen Dateien ins Projekt kopiert hatte, hatte ich nicht den Eindruck, dass sie geladen wurden.
 
 ## malvidfile.json
 
